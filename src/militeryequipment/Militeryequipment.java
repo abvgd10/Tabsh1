@@ -2,6 +2,8 @@ package militeryequipment;
 
 public class Militeryequipment {
 
+    // i like this idea
+    //amazing!!!!
     public static String c() {
 
         System.out.println();
