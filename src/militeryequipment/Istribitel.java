@@ -1,6 +1,9 @@
 package militeryequipment;
 
 public class Istribitel extends Militeryequipment1  {
+    
+    //fill out!!!
+    
     public Istribitel() {
     }
 
