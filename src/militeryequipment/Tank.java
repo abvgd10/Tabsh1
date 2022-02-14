@@ -1,6 +1,9 @@
 package militeryequipment;
 
 public class Tank extends Militeryequipment1 {
+    
+    //why here is empty?
+    
     public Tank() {
     }
 
